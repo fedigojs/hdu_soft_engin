@@ -1,0 +1,181 @@
+<mxfile host="Electron" modified="2024-03-07T12:15:53.913Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="pd99L30ee8m3mRW9hpKf" version="23.1.5" type="device">
+  <diagram name="Page-1" id="rVHUcNo0uLs5xKn6yvbr">
+    <mxGraphModel dx="4923" dy="1632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kxiJUQvtk229OQcQGgAe-22" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-family: Calibri; font-size: medium; text-align: start;&quot;&gt;ID = FR001&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;Підтримка безлічі тенантів&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;система має підтримувати роботу з безліччю тенантів на одній інфраструктурі з ізоляцією даних&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="55" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-23" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-family: Calibri; font-size: medium; text-align: start;&quot;&gt;ID = FR002&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Автоматизоване створення тенантів&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;можливість створювати нових тенантів через веб-інтерфейс або API&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="570" y="50" width="230" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-24" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-family: Calibri; font-size: medium; text-align: start;&quot;&gt;ID = FR003&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Індивідуальна конфігурація для кожного тенанта&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;налаштування параметрів системи для кожного тенанта індивідуально&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="910" y="540" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-26" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-family: Calibri; font-size: medium; text-align: start;&quot;&gt;ID = FR004&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Керування користувачами&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;додавання, видалення та керування правами користувачів усередині тенанта&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="540" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-28" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-family: Calibri; font-size: medium; text-align: start;&quot;&gt;ID = FR005&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Модульність&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;можливість додавати і видаляти модулі системи залежно від потреб тенанта&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="50" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-30" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-family: Calibri; font-size: medium; text-align: start;&quot;&gt;ID = FR006&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&amp;nbsp; &lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Розгортання та оновлення модулів&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&amp;nbsp;автоматизація процесів&amp;nbsp; &amp;nbsp; &amp;nbsp;розгортання та оновлення&amp;nbsp; &amp;nbsp;модулів для тенантів&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="530" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-32" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-family: Calibri; font-size: medium; text-align: start;&quot;&gt;ID = FR007&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;Централізоване управління тенантами&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&amp;nbsp;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="110" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-34" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-family: Calibri; font-size: medium; text-align: start;&quot;&gt;ID = FR008&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;API для інтеграції&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&amp;nbsp;надання API для інтеграції із&amp;nbsp; &amp;nbsp;зовнішніми системами та&amp;nbsp; &amp;nbsp;сервісами&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="980" y="55" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-36" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-family: Calibri; font-size: medium; text-align: start;&quot;&gt;ID = FR009&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Аутентифікація та авторизація&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&amp;nbsp;механізми для контролю доступу до системи та розмежування прав користувачів&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="820" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-38" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-family: Calibri; font-size: medium; text-align: start;&quot;&gt;ID = FR010&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Безпечне зберігання даних&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&amp;nbsp;шифрування чутливих даних&amp;nbsp; &amp;nbsp;тенантів у базі даних&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="780" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-40" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-family: Calibri; font-size: medium; text-align: start;&quot;&gt;ID = FR011&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Резервне копіювання та відновлення даних&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&amp;nbsp;інструменти для бекапа та відновлення даних тенантів&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="540" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-42" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-family: Calibri; font-size: medium; text-align: start;&quot;&gt;ID = FR012&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&amp;nbsp; &lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Логування дій користувачів і&amp;nbsp; &amp;nbsp;системних подій&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&amp;nbsp;ведення журналів для&amp;nbsp; &amp;nbsp;забезпечення аудиту та&amp;nbsp; &amp;nbsp;налагодження&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="830" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-44" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-family: Calibri; font-size: medium; text-align: start;&quot;&gt;ID = FR013&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Багатомовний інтерфейс&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: medium; text-align: start;&quot; class=&quot;MsoNormal&quot;&gt;&amp;nbsp; підтримка різних мов у&amp;nbsp; &amp;nbsp;користувацькому інтерфейсі&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="50" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-52" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;Розробити уніфікований веб-інтерфейс для управління всіма тенантами" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="510" width="205" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-53" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;Надати API для програмного управління тенантами та їхніми налаштуваннями" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="340" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-54" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="kxiJUQvtk229OQcQGgAe-32" target="kxiJUQvtk229OQcQGgAe-52" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-255" y="685" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-55" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="kxiJUQvtk229OQcQGgAe-32" target="kxiJUQvtk229OQcQGgAe-53" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-255" y="755" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-56" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;Можливість перегляду та аналізу використання ресурсів кожним тенантом" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="500" width="205" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-58" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kxiJUQvtk229OQcQGgAe-32" target="kxiJUQvtk229OQcQGgAe-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-205" y="695" as="sourcePoint" />
+            <mxPoint x="-417" y="815" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-59" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;Реалізація функції швидкого створення нового тенанта через веб-інтерфейс" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="205" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-60" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;Можливість налаштування шаблонів для різних типів тенантів" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="820" y="350" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-61" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="kxiJUQvtk229OQcQGgAe-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-62" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="kxiJUQvtk229OQcQGgAe-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-63" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;Підтримка автоматичного розподілу ресурсів для нових тенантів" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="590" y="350" width="205" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-64" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="kxiJUQvtk229OQcQGgAe-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="230" as="sourcePoint" />
+            <mxPoint x="473" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-66" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;Система повинна дозволяти додавати та видаляти модулі без перезапуску" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="340" width="205" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-67" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;Забезпечення залежностей між модулями та їхньою сумісністюв" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="340" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-68" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="kxiJUQvtk229OQcQGgAe-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1435" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-69" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="kxiJUQvtk229OQcQGgAe-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1435" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-70" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;Має бути підтримка індивідуальної конфігурації модулів для кожного тенанта" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="340" width="205" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-71" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="kxiJUQvtk229OQcQGgAe-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1435" y="220" as="sourcePoint" />
+            <mxPoint x="1233" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-81" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;Розробити уніфікований веб-інтерфейс для управління всіма тенантами" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="710" y="830" width="205" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-82" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;Надати API для програмного управління тенантами та їхніми налаштуваннями" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="830" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-83" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="kxiJUQvtk229OQcQGgAe-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1025" y="710" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-84" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="kxiJUQvtk229OQcQGgAe-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1025" y="710" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-85" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;Можливість перегляду та аналізу використання ресурсів кожним тенантом" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="940" y="830" width="205" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-86" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="kxiJUQvtk229OQcQGgAe-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1025" y="710" as="sourcePoint" />
+            <mxPoint x="823" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-87" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;Розробка панелі управління для адміністратора" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="330" width="205" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-88" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;можливість налаштування доступу для різних рівнів управління" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="130" y="330" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-89" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="kxiJUQvtk229OQcQGgAe-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="225" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-90" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="kxiJUQvtk229OQcQGgAe-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="225" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-91" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;Система повідомлень для відстеження активності тенантів" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="330" width="205" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-92" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="kxiJUQvtk229OQcQGgAe-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="225" as="sourcePoint" />
+            <mxPoint x="-217" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kxiJUQvtk229OQcQGgAe-100" value="&amp;lt;&amp;lt;satisfy&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="kxiJUQvtk229OQcQGgAe-28" target="kxiJUQvtk229OQcQGgAe-44" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1660" y="200" as="sourcePoint" />
+            <mxPoint x="1730" y="20" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
